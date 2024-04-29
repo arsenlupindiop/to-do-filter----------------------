@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'ArialRoundedMT';
+	src: url('../fonts/arialroundedmt.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/arialroundedmt.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/arialroundedmt.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/arialroundedmt.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/arialroundedmt.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/arialroundedmt.svg#arialroundedmt') format('svg'); /* Chrome < 4, Legacy iOS */
+}
